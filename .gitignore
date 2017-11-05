@@ -92,7 +92,7 @@ ENV/
 
 database/
 media/
+whoosh_index/
 .idea/
 *.sqlite3
-/fabfile.py.bak
-/fabfile.py
+fabfile.py
