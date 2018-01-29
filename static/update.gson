@@ -1,9 +1,9 @@
 {
 	"id": 163,
 	"opts": "F",
-	"change_log": ["ĞŞ¸´ÔÚÏßÊÛºó¿Í·ş·´À¡£¬Ìá¸ßÏìÓ¦ËÙ¶È", "ÓÅ»¯ÏÂµ¥Á÷³Ì£¬ÌáÉıÓÃ»§ÌåÑé", "UIÒ³Ãæµ÷Õû£¬ÓÅ»¯ÊÓ¾õĞ§¹û", "³äÖµÓÅ»İ²»¶Ï£¬¸ü¶à»î¶¯ÌåÑé"],
+	"change_log": ["ä¿®å¤åœ¨çº¿å”®åå®¢æœåé¦ˆï¼Œæé«˜å“åº”é€Ÿåº¦", "ä¼˜åŒ–ä¸‹å•æµç¨‹ï¼Œæå‡ç”¨æˆ·ä½“éªŒ", "UIé¡µé¢è°ƒæ•´ï¼Œä¼˜åŒ–è§†è§‰æ•ˆæœ", "å……å€¼ä¼˜æƒ ä¸æ–­ï¼Œæ›´å¤šæ´»åŠ¨ä½“éªŒ"],
 	"filesize": 13.5,
-	"version_type_name": "Android¼ÒÍ¥ÓÃ»§°æ±¾App",
+	"version_type_name": "Androidå®¶åº­ç”¨æˆ·ç‰ˆæœ¬App",
 	"download_url": "http:\/\/upload.lairen.com\/apk\/MobileApp-20180119204441.apk",
 	"version_type": 1,
 	"min_version": "5.4.2",
@@ -11,7 +11,7 @@
 	"filename": "MobileApp-20180119204441.apk",
 	"is_upload_attachment": true,
 	"response_status": {
-		"message": "²Ù×÷³É¹¦",
+		"message": "æ“ä½œæˆåŠŸ",
 		"code": "OK",
 		"success": true
 	},
