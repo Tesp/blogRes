@@ -4,7 +4,7 @@
 	"change_log": ["新加当前天气显示", "优化响铃音乐选择", "修复bug"],
 	"filesize": 13.5,
 	"version_type_name": "扎心",
-	"download_url": "http:\/\/upload.lairen.com\/apk\/MobileApp-20180119204441.apk",
+	"download_url": http://tesp.top/static/app-debug.apk",
 	"version_type": 1,
 	"min_version": "5.4.2",
 	"created_at": "2018-01-19 20:45:14",
@@ -15,5 +15,5 @@
 		"code": "OK",
 		"success": true
 	},
-	"version": "1.0.0"
+	"version": "1.0.1"
 }
