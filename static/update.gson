@@ -1,9 +1,9 @@
 {
 	"id": 163,
 	"opts": "F",
-	"change_log": ["修复在线售后客服反馈，提高响应速度", "优化下单流程，提升用户体验", "UI页面调整，优化视觉效果", "充值优惠不断，更多活动体验"],
+	"change_log": ["新加当前天气显示", "优化响铃音乐选择", "修复bug"],
 	"filesize": 13.5,
-	"version_type_name": "Android家庭用户版本App",
+	"version_type_name": "扎心",
 	"download_url": "http:\/\/upload.lairen.com\/apk\/MobileApp-20180119204441.apk",
 	"version_type": 1,
 	"min_version": "5.4.2",
