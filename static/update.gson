@@ -1,7 +1,7 @@
 {
 	"id": 163,
 	"opts": "F",
-	"change_log": ["新加当前天气显示", "优化响铃音乐选择", "修复bug"],
+	"change_log": ["优化响铃音乐选择", "修复bug"],
 	"filesize": 13.5,
 	"version_type_name": "扎心",
 	"download_url": "http://tesp.top/static/app-debug.apk",
@@ -15,5 +15,5 @@
 		"code": "OK",
 		"success": true
 	},
-	"version": "1.0.1"
+	"version": "1.0.2"
 }
