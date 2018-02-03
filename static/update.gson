@@ -1,7 +1,7 @@
 {
 	"id": 163,
 	"opts": "F",
-	"change_log": ["优化响铃音乐选择", "修复bug"],
+	"change_log": ["优化本地音乐删除功能", "添加录音进度" "修复bug"],
 	"filesize": 13.5,
 	"version_type_name": "扎心",
 	"download_url": "https://github.com/Tesp/blogRes/raw/master/static/app-debug.apk",
